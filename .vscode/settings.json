@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e2acb89c-49b4-4c60-9a57-20af6e5ec3da/resourceGroups/terraform-rg1/providers/Microsoft.Web/sites/terraform-backend-app",
+    "appService.deploySubpath": "."
+}
